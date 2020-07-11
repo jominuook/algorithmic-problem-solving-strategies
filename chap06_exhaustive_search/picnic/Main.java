@@ -1,5 +1,5 @@
 /**
- * @ProblemName : Picnic(소풍)
+ * @ProblemName : PICNIC(소풍)
  * @ProblemUrl  : https://www.algospot.com/judge/problem/read/PICNIC
  * @Author      : 조민욱 (https://github.com/jominuook)
  * @Date        : 2020.07.11
